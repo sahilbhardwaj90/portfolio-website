@@ -2,6 +2,7 @@ console.log("Javascript Activated!");
 
 // Git Commands - 
 // git clone <url>
+// git init
 // git add <filename> 
 // git commit -a "message" or git commit -am "message"
 // git push is used to make the changes visible online!
